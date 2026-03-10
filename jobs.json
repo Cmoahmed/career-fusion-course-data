@@ -1,0 +1,132 @@
+[
+  {
+    "id": "job-1",
+    "title": "Senior Frontend Developer",
+    "company": "TechCorp Inc.",
+    "location": "San Francisco, CA",
+    "workMode": "Onsite",
+    "employmentType": "Full-Time",
+    "postedDaysAgo": 2,
+    "description": "Build scalable frontend applications using React, TypeScript, and modern UI architecture.",
+    "requiredSkills": [
+      { "name": "React", "requiredLevel": 8 },
+      { "name": "TypeScript", "requiredLevel": 7 },
+      { "name": "Next.js", "requiredLevel": 8 },
+      { "name": "CSS", "requiredLevel": 7 },
+      { "name": "GraphQL", "requiredLevel": 6 }
+    ]
+  },
+  {
+    "id": "job-2",
+    "title": "Full Stack Engineer",
+    "company": "StartupXYZ",
+    "location": "Remote",
+    "workMode": "Remote",
+    "employmentType": "Full-Time",
+    "postedDaysAgo": 3,
+    "description": "Work across the stack using React, Node.js, and MongoDB to ship product features fast.",
+    "requiredSkills": [
+      { "name": "React", "requiredLevel": 7 },
+      { "name": "Node.js", "requiredLevel": 8 },
+      { "name": "MongoDB", "requiredLevel": 7 },
+      { "name": "AWS", "requiredLevel": 6 }
+    ]
+  },
+  {
+    "id": "job-3",
+    "title": "Product Designer",
+    "company": "Design Studio",
+    "location": "New York, NY",
+    "workMode": "Onsite",
+    "employmentType": "Full-Time",
+    "postedDaysAgo": 7,
+    "description": "Design user-centered interfaces and collaborate closely with product and engineering teams.",
+    "requiredSkills": [
+      { "name": "Figma", "requiredLevel": 9 },
+      { "name": "UI Design", "requiredLevel": 8 },
+      { "name": "Prototyping", "requiredLevel": 7 },
+      { "name": "Design Systems", "requiredLevel": 7 }
+    ]
+  },
+  {
+    "id": "job-4",
+    "title": "React Native Developer",
+    "company": "Mobile First Co.",
+    "location": "Austin, TX",
+    "workMode": "Onsite",
+    "employmentType": "Contract",
+    "postedDaysAgo": 5,
+    "description": "Develop and maintain high-performance mobile apps using React Native.",
+    "requiredSkills": [
+      { "name": "React Native", "requiredLevel": 8 },
+      { "name": "JavaScript", "requiredLevel": 7 },
+      { "name": "API Integration", "requiredLevel": 6 },
+      { "name": "Redux", "requiredLevel": 6 }
+    ]
+  },
+  {
+    "id": "job-5",
+    "title": "Backend Developer",
+    "company": "CloudNova",
+    "location": "Remote",
+    "workMode": "Remote",
+    "employmentType": "Full-Time",
+    "postedDaysAgo": 1,
+    "description": "Build secure APIs and scalable backend services using Node.js, MongoDB, and AWS.",
+    "requiredSkills": [
+      { "name": "Node.js", "requiredLevel": 8 },
+      { "name": "Express", "requiredLevel": 7 },
+      { "name": "MongoDB", "requiredLevel": 8 },
+      { "name": "AWS", "requiredLevel": 7 },
+      { "name": "REST API", "requiredLevel": 8 }
+    ]
+  },
+  {
+    "id": "job-6",
+    "title": "DevOps Engineer",
+    "company": "InfraScale",
+    "location": "Remote",
+    "workMode": "Remote",
+    "employmentType": "Contract",
+    "postedDaysAgo": 4,
+    "description": "Maintain CI/CD pipelines and cloud infrastructure with Docker, Kubernetes, and AWS.",
+    "requiredSkills": [
+      { "name": "Docker", "requiredLevel": 8 },
+      { "name": "Kubernetes", "requiredLevel": 8 },
+      { "name": "AWS", "requiredLevel": 7 },
+      { "name": "CI/CD", "requiredLevel": 7 }
+    ]
+  },
+  {
+    "id": "job-7",
+    "title": "UI/UX Designer",
+    "company": "PixelCraft",
+    "location": "Remote",
+    "workMode": "Remote",
+    "employmentType": "Full-Time",
+    "postedDaysAgo": 6,
+    "description": "Create user flows, wireframes, and polished UI designs for web and mobile products.",
+    "requiredSkills": [
+      { "name": "Figma", "requiredLevel": 8 },
+      { "name": "UI Design", "requiredLevel": 7 },
+      { "name": "Wireframing", "requiredLevel": 7 },
+      { "name": "UX Research", "requiredLevel": 6 }
+    ]
+  },
+  {
+    "id": "job-8",
+    "title": "Data Analyst",
+    "company": "InsightHub",
+    "location": "Chicago, IL",
+    "workMode": "Hybrid",
+    "employmentType": "Full-Time",
+    "postedDaysAgo": 8,
+    "description": "Analyze business data using SQL, Excel, and Python to support decision-making.",
+    "requiredSkills": [
+      { "name": "SQL", "requiredLevel": 8 },
+      { "name": "Excel", "requiredLevel": 7 },
+      { "name": "Python", "requiredLevel": 6 },
+      { "name": "Data Visualization", "requiredLevel": 6 }
+    ]
+  }
+]
