@@ -1,0 +1,210 @@
+[
+  {
+    "id": "salary-1",
+    "role": "Product Designer",
+    "location": "United States",
+    "experience": "0-2 years",
+    "currency": "USD",
+    "minSalary": 50000,
+    "maxSalary": 70000,
+    "medianSalary": 60000,
+    "marketOffsetPercent": 3,
+    "userPositionPercent": 45,
+    "trend": [
+      { "year": 2021, "salary": 52000 },
+      { "year": 2022, "salary": 55000 },
+      { "year": 2023, "salary": 58000 },
+      { "year": 2024, "salary": 60000 },
+      { "year": 2025, "salary": 62000 }
+    ],
+    "skillImpact": [
+      { "skill": "Figma", "salary": 68000 },
+      { "skill": "UI Design", "salary": 65000 },
+      { "skill": "UX Research", "salary": 67000 },
+      { "skill": "Design Systems", "salary": 70000 },
+      { "skill": "Prototyping", "salary": 64000 }
+    ]
+  },
+  {
+    "id": "salary-2",
+    "role": "Product Designer",
+    "location": "United States",
+    "experience": "3-5 years",
+    "currency": "USD",
+    "minSalary": 60000,
+    "maxSalary": 90000,
+    "medianSalary": 75000,
+    "marketOffsetPercent": 8,
+    "userPositionPercent": 35,
+    "trend": [
+      { "year": 2021, "salary": 62000 },
+      { "year": 2022, "salary": 67000 },
+      { "year": 2023, "salary": 71000 },
+      { "year": 2024, "salary": 75000 },
+      { "year": 2025, "salary": 79000 }
+    ],
+    "skillImpact": [
+      { "skill": "React", "salary": 85000 },
+      { "skill": "AWS", "salary": 92000 },
+      { "skill": "System Design", "salary": 95000 },
+      { "skill": "TypeScript", "salary": 80000 },
+      { "skill": "Node.js", "salary": 78000 }
+    ]
+  },
+  {
+    "id": "salary-3",
+    "role": "Product Designer",
+    "location": "United States",
+    "experience": "6+ years",
+    "currency": "USD",
+    "minSalary": 85000,
+    "maxSalary": 120000,
+    "medianSalary": 102000,
+    "marketOffsetPercent": 11,
+    "userPositionPercent": 22,
+    "trend": [
+      { "year": 2021, "salary": 86000 },
+      { "year": 2022, "salary": 90000 },
+      { "year": 2023, "salary": 95000 },
+      { "year": 2024, "salary": 102000 },
+      { "year": 2025, "salary": 108000 }
+    ],
+    "skillImpact": [
+      { "skill": "Leadership", "salary": 115000 },
+      { "skill": "Design Strategy", "salary": 118000 },
+      { "skill": "Design Systems", "salary": 110000 },
+      { "skill": "UX Research", "salary": 106000 },
+      { "skill": "Product Thinking", "salary": 112000 }
+    ]
+  },
+  {
+    "id": "salary-4",
+    "role": "Frontend Developer",
+    "location": "United States",
+    "experience": "0-2 years",
+    "currency": "USD",
+    "minSalary": 55000,
+    "maxSalary": 80000,
+    "medianSalary": 68000,
+    "marketOffsetPercent": 4,
+    "userPositionPercent": 48,
+    "trend": [
+      { "year": 2021, "salary": 56000 },
+      { "year": 2022, "salary": 60000 },
+      { "year": 2023, "salary": 64000 },
+      { "year": 2024, "salary": 68000 },
+      { "year": 2025, "salary": 72000 }
+    ],
+    "skillImpact": [
+      { "skill": "React", "salary": 76000 },
+      { "skill": "TypeScript", "salary": 74000 },
+      { "skill": "CSS", "salary": 70000 },
+      { "skill": "Next.js", "salary": 78000 },
+      { "skill": "GraphQL", "salary": 73000 }
+    ]
+  },
+  {
+    "id": "salary-5",
+    "role": "Frontend Developer",
+    "location": "United States",
+    "experience": "3-5 years",
+    "currency": "USD",
+    "minSalary": 80000,
+    "maxSalary": 115000,
+    "medianSalary": 95000,
+    "marketOffsetPercent": 7,
+    "userPositionPercent": 30,
+    "trend": [
+      { "year": 2021, "salary": 79000 },
+      { "year": 2022, "salary": 84000 },
+      { "year": 2023, "salary": 89000 },
+      { "year": 2024, "salary": 95000 },
+      { "year": 2025, "salary": 101000 }
+    ],
+    "skillImpact": [
+      { "skill": "React", "salary": 100000 },
+      { "skill": "TypeScript", "salary": 98000 },
+      { "skill": "Next.js", "salary": 103000 },
+      { "skill": "GraphQL", "salary": 97000 },
+      { "skill": "System Design", "salary": 108000 }
+    ]
+  },
+  {
+    "id": "salary-6",
+    "role": "Backend Developer",
+    "location": "United States",
+    "experience": "3-5 years",
+    "currency": "USD",
+    "minSalary": 85000,
+    "maxSalary": 125000,
+    "medianSalary": 104000,
+    "marketOffsetPercent": 9,
+    "userPositionPercent": 28,
+    "trend": [
+      { "year": 2021, "salary": 83000 },
+      { "year": 2022, "salary": 90000 },
+      { "year": 2023, "salary": 96000 },
+      { "year": 2024, "salary": 104000 },
+      { "year": 2025, "salary": 110000 }
+    ],
+    "skillImpact": [
+      { "skill": "Node.js", "salary": 108000 },
+      { "skill": "MongoDB", "salary": 102000 },
+      { "skill": "AWS", "salary": 115000 },
+      { "skill": "System Design", "salary": 120000 },
+      { "skill": "REST API", "salary": 106000 }
+    ]
+  },
+  {
+    "id": "salary-7",
+    "role": "Backend Developer",
+    "location": "Egypt",
+    "experience": "0-2 years",
+    "currency": "EGP",
+    "minSalary": 12000,
+    "maxSalary": 20000,
+    "medianSalary": 16000,
+    "marketOffsetPercent": 5,
+    "userPositionPercent": 44,
+    "trend": [
+      { "year": 2021, "salary": 10000 },
+      { "year": 2022, "salary": 12000 },
+      { "year": 2023, "salary": 14000 },
+      { "year": 2024, "salary": 16000 },
+      { "year": 2025, "salary": 18000 }
+    ],
+    "skillImpact": [
+      { "skill": "Node.js", "salary": 17000 },
+      { "skill": "MongoDB", "salary": 16500 },
+      { "skill": "REST API", "salary": 16800 },
+      { "skill": "SQL", "salary": 16200 },
+      { "skill": "Git", "salary": 15800 }
+    ]
+  },
+  {
+    "id": "salary-8",
+    "role": "Backend Developer",
+    "location": "Egypt",
+    "experience": "3-5 years",
+    "currency": "EGP",
+    "minSalary": 22000,
+    "maxSalary": 40000,
+    "medianSalary": 30000,
+    "marketOffsetPercent": 10,
+    "userPositionPercent": 32,
+    "trend": [
+      { "year": 2021, "salary": 18000 },
+      { "year": 2022, "salary": 22000 },
+      { "year": 2023, "salary": 26000 },
+      { "year": 2024, "salary": 30000 },
+      { "year": 2025, "salary": 34000 }
+    ],
+    "skillImpact": [
+      { "skill": "Node.js", "salary": 32000 },
+      { "skill": "AWS", "salary": 36000 },
+      { "skill": "System Design", "salary": 38000 },
+      { "skill": "MongoDB", "salary": 31000 },
+      { "skill": "REST API", "salary": 30500 }
+    ]
+  }
+]
